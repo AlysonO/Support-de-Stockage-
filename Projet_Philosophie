@@ -1,12 +1,12 @@
-I. SUPPORTS DE STOCKAGE
+INTRODUCTION
 Le stockage des données, qu'est-ce que c'est ?
 https://www.redhat.com/fr/topics/data-storage#:~:text=Le%20stockage%20des%20donn%C3%A9es%20consiste,%C3%A9l%C3%A9ment%20essentiel%20du%20Big%20Data.
 https://www.ibm.com/fr-fr/topics/data-storage
 -----------------------
 
-II. LIGNEE TECHNIQUE
+LIGNEE TECHNIQUE
 1. L'enregistrement magnétique sur fil (Valdemar Poulsen)
-2. La bande magnétique (Fritz Pleumer puis standardiser avec IBM)
+2. La bande magnétique (Fritz Pleumer puis standardisé avec IBM)
 3. Le disque dur(IBM's RAMAC)
 
 CONCLUSION
