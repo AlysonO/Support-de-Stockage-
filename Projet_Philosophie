@@ -14,7 +14,7 @@ Tous ces systèmes avait pour support une bande magnétique, l'information qui y
 
 L'enregistrement sur ces bandes est soit linéaire soit hélicoïdal.
 
- Les données sont stockées dans des blocs séparés par des intervalles appelé « gap » et ces intervalles permettaient au lecteur de bande de s'arrêter avant de reprendre une lecture ou une écriture. Si la lecture devait être interrompue la bande est rembobinée jusqu'au gap précédent.
+ Les données sont stockées dans des blocs séparés par des intervalles appelé « gap » et ces intervalles permettaient au lecteur de bande de se stopper avant de reprendre une lecture ou une écriture. Si la lecture devait être interrompue la bande est rembobinée jusqu'au gap précédent.
 La bande magnétique se constituent donc d’un film en plastique où l’on dépose une poudre d’oxyde de fer mélangée à un liant de fixation. Cet élément est un matériau magnétique qui est donc aimantée de façon permanente. De part cela la retranscription des données sur une bande magnétique se fait à l’aide d’un électroaimant mais il peut permettre aussi d’effacer des données sur celle-ci par application d’un champ magnétique.
 
 3. Le disque dur(IBM's RAMAC)
