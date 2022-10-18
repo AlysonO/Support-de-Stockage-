@@ -6,7 +6,17 @@ https://www.ibm.com/fr-fr/topics/data-storage
 
 LIGNEE TECHNIQUE
 1. L'enregistrement magnétique sur fil (Valdemar Poulsen)
+
 2. La bande magnétique (Fritz Pleumer puis standardisé avec IBM)
+La bande magnétique ou aussi appelé ruban magnétique est une bobine de ruban de plastique mais notamment un support de stockage qui permet l'enregistrement d'informations à l'aide d'un magnétophone ou d'un magnétoscope. On y lit les informations enregistrer en mesurant la polarisation de particules magnétiques d’oxyde de fer et on y écrivait donc en modifiant ces particules. D'abord utilisée pour des enregistrements sonores en 1950 par la RTF.
+ Elles ont par la suite été placé dans des cassettes pour faciliter l'utilisation et avec l'arrivé de la numérisation, un nouveau format de cassette a été lancé où l'information été enregistrée sur la bande grâce à une tête rotative. Ensuite est venu les enregistreurs vidéo qui étaient tous d’abord des appareils à vocation professionnelle mais qui plus tard s’est ouvert au public grâce à l’avancé informatique. Ils fonctionnaient aussi avec des bandes magnétiques. Plusieurs modèle avait été vendu à lépoque comme la V2000, la Betamax et la VHS. 
+Tous ces systèmes avait pour support une bande magnétique, l'information qui y était stockée est analogique. Les bandes magnétiques sont employées comme supports de mémoire de masse depuis les débuts de l’informatique. Elles permettent un stockage de haute capacité des données, surpassant sous certaines conditions les supports de stockage actuels.
+
+L'enregistrement sur ces bandes est soit linéaire soit hélicoïdal.
+
+ Les données sont stockées dans des blocs séparés par des intervalles appelé « gap » et ces intervalles permettaient au lecteur de bande de s'arrêter avant de reprendre une lecture ou une écriture. Si la lecture devait être interrompue la bande est rembobinée jusqu'au gap précédent.
+La bande magnétique se constituent donc d’un film en plastique où l’on dépose une poudre d’oxyde de fer mélangée à un liant de fixation. Cet élément est un matériau magnétique qui est donc aimantée de façon permanente. De part cela la retranscription des données sur une bande magnétique se fait à l’aide d’un électroaimant mais il peut permettre aussi d’effacer des données sur celle-ci par application d’un champ magnétique.
+
 3. Le disque dur(IBM's RAMAC)
 
 CONCLUSION
