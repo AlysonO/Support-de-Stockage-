@@ -1,7 +1,5 @@
 INTRODUCTION
-Le stockage des données, qu'est-ce que c'est ?
-https://www.redhat.com/fr/topics/data-storage#:~:text=Le%20stockage%20des%20donn%C3%A9es%20consiste,%C3%A9l%C3%A9ment%20essentiel%20du%20Big%20Data.
-https://www.ibm.com/fr-fr/topics/data-storage
+Dans l’histoire de l’humanité, stocker des informations a toujours été présent. Les premières marques de cette technique remontant à l’âge de pierre, où l’on a pu retrouver notamment des dessins sur les murs, fais par des hommes, de ce qu’ils voyaient ou vivaient. Cette volonté de vouloir garder une information à travers le temps, nous la retrouvons encore aujourd’hui et celle-ci a fait un grand bond, notamment avec l’apparition de l’informatique. La technologie évoluant, nous ne parlons désormais plus de stockage de l’information, mais de stockage des données dans le cadre spécifique de stockage de l’information, grâce à l’informatique. Ces stockages sont aujourd’hui présents et utilisés partout autour de nous, que ce soit localement sur notre téléphone, ou de manière externe via des serveurs de base de données par exemple. Leurs utilités sont multiples, cela a notamment révolutionné la gestion, plus besoin de chercher désespérément des papiers précis dans un énorme entrepôts, une recherche dans une base de données vous suffira de trouver ce que vous voulez. Ou encore la sécurité qui sera bien plus grande que dans ce simple et même entrepôt. On peut donc voire ici que l’évolution des stockages de données est un domaine très intéressant dû aux ensembles des innovations, des technologies utilisées et de celle inventé grâce à ce concept. C’est pour cela que nous allons vous présenter aujourd’hui, l’évolution du stockage des données en se basant sur la théorie de la lignée technique de Simondon. Celui-ci ne pouvant cependant pas la faire entièrement à cause de sa complexité, nous nous concentreront seulement sur les points principaux que nous avons pu en tirer, c’est-à-dire : L'enregistrement magnétique sur fil, La bande magnétique et le disque dur.
 -----------------------
 
 LIGNEE TECHNIQUE
@@ -27,7 +25,7 @@ https://dis-moi-tout.fr/levolution-des-solutions-de-stockage-de-donnees-informat
 https://www.tomshardware.fr/de-la-carte-perforee-a-la-memoire-flash-la-grande-histoire-du-stockage-des-donnees/#:~:text=1951%20%3A%20UNISERVO%2C%20premier%20syst%C3%A8me%20de%20stockage%20%C3%A0%20bande%20magn%C3%A9tique&text=En%201951%2C%20l'ordinateur%20UNIVAC,(12%2C7%20mm).
 https://fr.wikipedia.org/wiki/Bande_magn%C3%A9tique
 https://www.databack.fr/bandes-magnetiques-stockage-et-recuperation-de-donnees/#:~:text=Les%20bandes%20magn%C3%A9tiques%2C%20des%20supports,les%20supports%20de%20stockage%20actuels
-
+https://zestedesavoir.com/articles/12/cest-toute-une-histoire-le-stockage/#3-lentree-dans-le-monde-moderne
 
 
 test
